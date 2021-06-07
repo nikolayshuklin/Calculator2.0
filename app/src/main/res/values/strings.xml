@@ -22,4 +22,5 @@
     <string name="keyResult">=</string>
     <string name="resultField">%f</string>
     <string name="operationField">%s</string>
+
 </resources>

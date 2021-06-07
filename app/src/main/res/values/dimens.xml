@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textResultField">25sp</dimen>
+    <dimen name="textOperationField">22sp</dimen>
+    <dimen name="buttonMargin">3dp</dimen>
+    <dimen name="textDefault">25sp</dimen>
+    <dimen name="cornerRadius">15dp</dimen>
+</resources>
